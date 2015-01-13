@@ -1,6 +1,6 @@
 body {
 
-background: url("http://videomultiverse.org/Images/pillars-of-creation-hires.jpg"), #000000;
+background: url("http://videomultiverse.org/Images/Restaurant/pillars.jpg"), #000000;
 background-repeat: repeat-x, no-repeat;
 font-size: 26px;
 color: #ffffff;
@@ -11,7 +11,7 @@ line-height: 32px;
 }
 
 h1 {
-	background: url("http://videomultiverse.org/Images/pillars-of-creation-hires.jpg");
+	background: url("http://videomultiverse.org/Images/Restaurant/pillars.jpg");
 	background-repeat: no-repeat;
 	display: black
 	width: 147px
@@ -28,7 +28,7 @@ hr {
 }
 
 a {
-	background: url("http://videomultiverse.org/Images/pillars-of-creation-hires.jpg");
+	background: url("http://videomultiverse.org/Images/Restaurant/pillars.jpg");
 	background-repeat: no-repeat;
 	display: block;
 	width: 246px;
