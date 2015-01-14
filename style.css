@@ -2,37 +2,22 @@ body {
 
 background: url("http://videomultiverse.org/Images/Restaurant/pillars.jpg"), #000000;
 background-repeat: repeat-x, no-repeat;
-font-family: Syncopate;
-font-size: 26px;
+font-size: 24px;
 color: #ffffff;
 margin: 278px 200px;
-font-weight: 100;
-line-height: 32px;
-
-}
-
-h1 {
-	background: url("http://videomultiverse.org/Images/stripes.png");
-	background-repeat: no-repeat;
-	display: black
-	width: 147px
-	height: 44px
-	text-indent; 1000en;
-	white-space: nowrap;
-	overflow: hidden;
-}
+font-weight: 600;
+line-height: 40px;
 
 hr {
 	border-color: #33CCFF;
 	margin: 0;
-	width: 100px;
-}
+	width: 75px;
 
 a {
-	background: url("http://videomultiverse.org/Images/stripes.png");
+	background: url("http://videomultiverse.org/Images/Restaurant/Line.jpg");
 	background-repeat: no-repeat;
 	display: block;
-	width: 246px;
-	height: 74px;
+	width: 2560px;
+	height: 300px;
 	outline: none;
 }
